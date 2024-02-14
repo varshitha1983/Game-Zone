@@ -2,7 +2,7 @@
 This is composed of five fun games which are played by almost everyone in their childhoold.<br />
 The five games are listed below<br /><br />
 # 1.Tic Tac Toe
-<br />
+<br /> 
 Tic-tac-toe is a classic two-player game played on a 3x3 grid. The game is also known as noughts and crosses or Xs and Os.
 <br /><br />
 Objective:<br />
